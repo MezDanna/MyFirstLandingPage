@@ -1,0 +1,56 @@
+.logo{
+	width:13%;
+	border-radius: 50%;
+
+}
+
+#jmbt-landing{
+	color: white;
+	background-color:#745234;
+	background-image: url('../img/danna1.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+#first{
+	font-family: 'Berkshire Swash', cursive;
+	font-size: 10rem;
+}
+#explain{
+	font-family: 'Comfortaa', cursive;
+}
+
+#beneficios{
+	padding: 3%;
+	color: white;
+	background-color:#FF860B;
+}
+
+.titles{
+	font-family: 'Lemonada', cursive;
+}
+
+#esposos{
+	width: 25%;
+}
+
+#luisa{
+	width: 21%;
+}
+
+#btn-cta, #input-cta{
+	height: 70px;
+	font-size: 20px;
+	border-radius: 5%;
+}
+
+.danna{
+	width: 60%;
+}
+
+#play{
+	width: 9%;
+}
+#footer{
+	margin-top: 5%;
+	padding:20px;
+}
